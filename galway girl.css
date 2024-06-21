@@ -216,3 +216,20 @@ header {
     width: 745px;
     margin-left: 396px;
 }
+
+div.credits {
+    color: azure;
+    transition-duration: 0.5s;
+}
+
+div.creator {
+    color: beige;
+    transition-duration: 2s;
+    transition-delay: 1s;
+}
+
+.social:hover {
+    cursor: pointer;
+    transition-duration: 2s;
+    transition-delay: 1s;
+}
